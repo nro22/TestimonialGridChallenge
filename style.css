@@ -72,6 +72,9 @@ body{
  color: #ffffff;
 
 }
+.attribution{
+    padding: 0 5%;
+}
 
 @media (min-width: 576px){
     #testimonial-grid-container{
